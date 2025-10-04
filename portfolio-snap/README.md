@@ -30,7 +30,7 @@ The Snap is split into a few parts:
 
 ```bash
 git clone https://github.com/hrushikeshroop/-portfolio-tracker-.git
-cd https://github.com/hrushikeshroop/-portfolio-tracker-.git
+cd portfolio-snap
 ```
 
 2. **Install dependencies**
@@ -88,5 +88,6 @@ This will start the Snap dev server on `http://localhost:8080` (default).
 ├── package.json             # Project dependencies and scripts
 └── snap.config.js           # Configuration for the MetaMask Snap CLI
 ```
+
 
 
