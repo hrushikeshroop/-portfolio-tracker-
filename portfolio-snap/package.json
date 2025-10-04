@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-snap",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "mm-snap serve",
+    "build": "mm-snap build"
+  },
+  "dependencies": {
+    "@metamask/snaps-cli": "^1.0.0",
+    "@metamask/snaps-ui": "^1.0.0",
+    "ethers": "^6.7.0"
+  }
+}
